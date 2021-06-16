@@ -38,7 +38,7 @@ class SearchBar extends Component { // I didn't find a way to use hook without b
         return (
             <header>
                 <Header>
-                    <Logo><a href="/"><img src="/././src/assets/img/logo.png" alt="Marvel Logo"/></a></Logo>
+                    <Logo><a href="/"><img src="https://i.ibb.co/tmjQm5w/logo.png" alt="Marvel Logo"/></a></Logo>
                     <Form>
                         <form>
                             <Button><i className="fas fa-search"></i></Button>
